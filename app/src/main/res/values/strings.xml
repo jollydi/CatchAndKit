@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CatchAndKit</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="task_names">
+        <item>"OCR</item>
+        <item>OCR (cloud)</item>
+        <item>label</item>
+        <item>label (cloud)</item>
+        <item>landmark</item>
+    </string-array>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "222513692992",
+    "firebase_url": "https://catchandkit-bbb57.firebaseio.com",
+    "project_id": "catchandkit-bbb57",
+    "storage_bucket": "catchandkit-bbb57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222513692992:android:776a69ca2230860d64baa5",
+        "android_client_info": {
+          "package_name": "edu.rosehulman.catchandkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222513692992-j9o7ti4770b03cr5ndpmj8t77l9q3kjg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4aBkoJC7P8Gkhu0BQNL_3GqQrRHFvJKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "222513692992-j9o7ti4770b03cr5ndpmj8t77l9q3kjg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
